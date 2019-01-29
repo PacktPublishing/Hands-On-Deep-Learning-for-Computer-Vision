@@ -1,0 +1,7 @@
+style 1 https://en.wikipedia.org/wiki/Zdzisław_Beksiński#/media/File:AA78_by_Zdzislaw_Beksinski_1978.jpg
+style 2 https://en.wikipedia.org/wiki/File:Popova_Air_Man_Space.jpg
+content https://www.flickr.com/photos/australianshepherds/2086945223/
+face https://www.flickr.com/photos/freestocks/29047364532
+figures https://picryl.com/media/figures-3f3ad1
+
+
