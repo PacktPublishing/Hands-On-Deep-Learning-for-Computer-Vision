@@ -1,0 +1,9 @@
+MacBook-Air-Piorko:source jkk$ python3 train.py 
+Using TensorFlow backend.
+Train on 60000 samples, validate on 10000 samples
+2019-01-16 14:55:29.870934: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2019-01-16 14:55:29.871426: I tensorflow/core/common_runtime/process_util.cc:69] Creating new thread pool with default inter op setting: 4. Tune using inter_op_parallelism_threads for best performance.
+Epoch 1/2
+60000/60000 [==============================] - 411s 7ms/step - loss: 0.5329 - val_loss: 0.5207
+Epoch 2/2
+60000/60000 [==============================] - 404s 7ms/step - loss: 0.5193 - val_loss: 0.5185
