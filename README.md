@@ -21,7 +21,7 @@ By the end of this course, you will be able to use computer vision and deep lear
 To fully benefit from the coverage included in this course, you will need:<br/>
 To fully benefit from the coverage included in this course, you will need:
 
-	Python 3 working knowladge
+	Python 3 working knowledge
 
 	The basics of Machine Learning - the main ideas behind training, validating and testing ML models
 
