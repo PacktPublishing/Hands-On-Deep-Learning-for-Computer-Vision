@@ -39,7 +39,7 @@ This course has been tested on the following system configuration:
 
 	OS: macOS High Sierra
 
-	Processor: 1,3 GHz Intel Core 5
+	Processor: 1.3 GHz Intel Core 5
 
 	Memory: 4 GB
 
